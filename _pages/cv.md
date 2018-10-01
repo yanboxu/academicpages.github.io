@@ -51,7 +51,7 @@ Selected Publications
 ======
   Full publications can be found <u><a href="https://scholar.google.com/citations?user=x1QnFEcAAAAJ&hl=en">here</a>.</u>
   
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
