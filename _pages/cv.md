@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Machine Learning, Georgia Institute of Technology, 2017 Spring - Present
+* Ph.D in Computer Science (Transfered), Johns Hopkins University, 2015 - 2016
+* Ph.D in Language Technologies (LOA), Carnegie Mellon University, 2010 - 2013
+* M.S. in Applied Math and Statistics, University of Minnesota, 2010
+* M.S. & B.S. in Computer Science, Harbin Institute of Technology, 2006
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 - 2015: Visiting Scholar
+  * University of California Berkeley
+  * Scale student modeling to Massive Open Online Courses (MOOC) -- edX
+  * Supervisor: Professor Zach Pardos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2006 - 2008: Software Engineer
+  * Lenovo Group Ltd, China
+  * Develop information integration system for CCB bank.
+  * Programming: Linux C/C++
+ 
+Awards and Honors
+======
+* 2018: Google Summer of Code (GSoC) developer
+  * R project for statistical computing
+* 2012: Best Student Paper Award
+  * The 5th International Conference on Educational Data Mining (EDM)
+* 2010: Outstanding Graduates
+  * Department of Mathematics and Statistics, University of Minnesota Duluth
+* 2010 Summer: Data Sciences Summer Institute (DSSI) Fellowship
+  * University of Illinois Urbana Champaign Summer School
+* 2009 Summer: NAACL Scholarship Award
+  * Johns Hopkins HLT Summer School 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: C/C++, Python, Pytorch, R, and Perl
+* Other tools: Matlab, SQL, BUGs/STAN
 
-Publications
+Selected Publications
 ======
+  Full publications can be found <u><a href="https://scholar.google.com/citations?user=x1QnFEcAAAAJ&hl=en">here</a>.</u>
+  
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Videos
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  [![](https://img.youtube.com/vi/V6rmcAcMDmA/0.jpg)](https://www.youtube.com/watch?v=V6rmcAcMDmA "Click to play on Youtube.com")
