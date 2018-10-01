@@ -19,28 +19,24 @@ Education
 
 Work experience
 ======
-* 2014 - 2015: Visiting Scholar
-  * University of California Berkeley
-  * Scale student modeling to Massive Open Online Courses (MOOC) -- edX
-  * Supervisor: Professor Zach Pardos
+* 2014 - 2015: Visiting Scholar at University of California Berkeley
+  Scale student modeling to Massive Open Online Courses (MOOC) -- edX.
 
-* 2006 - 2008: Software Engineer
-  * Lenovo Group Ltd, China
-  * Develop information integration system for CCB bank.
-  * Programming: Linux C/C++
+* 2006 - 2008: Software Engineer at Lenovo Group Ltd, China
+  Develop information integration system for CCB bank using C/C++.
  
 Awards and Honors
 ======
 * 2018: Google Summer of Code (GSoC) developer
-  * R project for statistical computing
+  R project for statistical computing
 * 2012: Best Student Paper Award
-  * The 5th International Conference on Educational Data Mining (EDM)
+  The 5th International Conference on Educational Data Mining (EDM)
 * 2010: Outstanding Graduates
-  * Department of Mathematics and Statistics, University of Minnesota Duluth
+  Department of Mathematics and Statistics, University of Minnesota Duluth
 * 2010 Summer: Data Sciences Summer Institute (DSSI) Fellowship
-  * University of Illinois Urbana Champaign Summer School
+  University of Illinois Urbana Champaign Summer School
 * 2009 Summer: NAACL Scholarship Award
-  * Johns Hopkins HLT Summer School 
+  Johns Hopkins HLT Summer School 
 
 Skills
 ======
