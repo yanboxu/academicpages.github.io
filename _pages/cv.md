@@ -55,6 +55,3 @@ Selected Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Videos
-======
-  [![](https://img.youtube.com/vi/V6rmcAcMDmA/0.jpg)](https://www.youtube.com/watch?v=V6rmcAcMDmA "Click to play on Youtube.com")
