@@ -83,7 +83,7 @@ author:
   avatar           : "profile_photo.png"
   bio              : "PhD student in Machine Learning at Georgia Institute of Technology"
   location         : "Atlanta, GA"
-  employer         : <u><a href="http://www.sunlab.org/">SunLab</a></u>
+  employer         : <a href="http://www.sunlab.org/">SunLab</a>
   googlescholar    : "https://scholar.google.com/citations?user=x1QnFEcAAAAJ&hl=en"
   email            : "yxu465 at gatech.edu"
   bitbucket        :
