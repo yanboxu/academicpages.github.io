@@ -1,5 +1,5 @@
 ---
-title: "RAIM: Recurrent Attentive and Intensive Modeling of Multimodal Continuous Patient Moni- toring Data"
+title: "RAIM: Recurrent Attentive and Intensive Modeling of Multimodal Continuous Patient Monitoring Data"
 collection: publications
 permalink: /publication/2018-KDD-RAIM
 date: 2018-07-01
