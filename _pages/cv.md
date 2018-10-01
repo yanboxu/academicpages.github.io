@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yanbo's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,22 +20,29 @@ Education
 Work experience
 ======
 * 2014 - 2015: Visiting Scholar at University of California Berkeley
+
   Scale student modeling to Massive Open Online Courses (MOOC) -- edX.
 
 * 2006 - 2008: Software Engineer at Lenovo Group Ltd, China
+
   Develop information integration system for CCB bank using C/C++.
  
 Awards and Honors
 ======
 * 2018: Google Summer of Code (GSoC) developer
+
   R project for statistical computing
 * 2012: Best Student Paper Award
+
   The 5th International Conference on Educational Data Mining (EDM)
 * 2010: Outstanding Graduates
+
   Department of Mathematics and Statistics, University of Minnesota Duluth
 * 2010 Summer: Data Sciences Summer Institute (DSSI) Fellowship
+
   University of Illinois Urbana Champaign Summer School
 * 2009 Summer: NAACL Scholarship Award
+
   Johns Hopkins HLT Summer School 
 
 Skills
