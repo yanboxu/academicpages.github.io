@@ -48,7 +48,11 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.codeurl%}
+    {% if post.citation and post.paperurl and post.codeurl and post.videourl%}
+      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>[Paper]</u></a> <a href="{{ post.codeurl }}"><u>[Code]</u></a> <a href="{{ post.videourl }}"><u>[Video]</u></a></p>
+    {% elsif post.citation and post.paperurl and post.videourl%}
+      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>[Paper]</u></a> <a href="{{ post.videourl }}"><u>[Video]</u></a></p>
+    {% elsif post.citation and post.paperurl and post.codeurl%}
       <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>[Paper]</u></a> <a href="{{ post.codeurl }}"><u>[Code]</u></a></p>
     {% elsif post.citation and post.paperurl %}
       <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>[Paper]</u></a> </p>
